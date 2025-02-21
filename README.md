@@ -1,2 +1,2 @@
 # calculadora
-# calculadora proyecto creado por gael y pedro pastorcit06 & TylerBrock01
+# proyecto creado por pastorcit06 & TylerBrock01
